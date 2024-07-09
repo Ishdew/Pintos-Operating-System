@@ -34,7 +34,7 @@ In the following screenshot, you can see how my developed OS performs with the b
 Clone the project
 
 ```bash
-  git clone 
+  git clone https://github.com/Ishdew/Pintos-Operating-System
 ```
 
 Go to the project directory
